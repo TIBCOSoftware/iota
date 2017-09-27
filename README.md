@@ -14,7 +14,7 @@ If you have contracted with TIBCO for commercial support of IOTA and need Suppor
 
 Project Flogo is the [Open Source Framework](https://github.com/TIBCOSoftware/flogo) for IoT Edge Apps and Integration and is available under a BSD-style license. This project is supported by the Community and users can create GitHub Issues on the relevant Flogo repositories.
 
-TIBCO IOT App Engine (IOTA) is the commercially supported counterpart of Project Flogo wherein customers can create Service Requests (as defined in <<>>) using the [TIBCO Support website](https://support.tibco.com/). IOTA is subject to the [End User License Agreement (EULA)](https://github.com/TIBCOSoftware/iota/blob/master/LICENSE) associated with TIBCO IOT App Engine (IOTA).
+TIBCO IOT App Engine (IOTA) is the commercially supported counterpart of Project Flogo wherein customers can create Service Requests using the [TIBCO Support website](https://support.tibco.com/). IOTA is subject to the [End User License Agreement (EULA)](https://github.com/TIBCOSoftware/iota/blob/master/LICENSE) associated with TIBCO IOT App Engine (IOTA).
 
 
 ----------
